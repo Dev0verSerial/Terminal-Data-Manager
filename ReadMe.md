@@ -1,9 +1,5 @@
 <h1>Terminal Data Manager V0.3</h1>
 
-[![Java CI with Maven](https://github.com/juliet-mike/Terminal-Data-Manager/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/juliet-mike/Terminal-Data-Manager/actions/workflows/maven.yml)
-
-![{F2917E28-39C4-4066-8C2C-65F5A17839CE}](https://github.com/user-attachments/assets/3c79a2c1-803e-4d56-a271-7bf70bd01993)
-
 
 
 <h2> TDM is a simple terminal based data manager for dumping and manipulating CSV files and SQL databases and allowing simple spreadsheet CRUD operations.
