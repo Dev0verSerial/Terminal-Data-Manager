@@ -7,4 +7,4 @@ It can be run from either the shell or as a graphical application on windows, li
 
 TDM was written to make editing table data from the terminal easier specifically for those working with only a serial console or terminal shell.
 
-Python based extensions coming soon with an internal script editor and runner using GraalPy<h2/> 
+Python based extensions coming soon <h2/> 
